@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=SmitAkbari26&icon=0&color=5)](https://visitcount.itsvg.in)
+
 # About Me:
 i'm currently learning
 
@@ -14,8 +17,3 @@ i'm currently learning
 
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=SmitAkbari26&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
