@@ -5,7 +5,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
+<img align="right" alt="Coding" width="500" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
+<br/>
 
 - 🔭 I’m currently working on [Event Management System](https://github.com/SmitAkbari26/Fiesta)
 
@@ -16,6 +18,8 @@
 - 💬 Ask me about **React, PHP and CSS**
 
 - 📫 How to reach me **akbarismit26@gmail.com**
+
+<br/>
 
 ---
 
