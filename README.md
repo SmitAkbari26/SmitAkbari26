@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Smit Akbari</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-[![](https://visitcount.itsvg.in/api?id=SmitAkbari26&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-<img align="right" alt="Coding" width="350" height="250" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
-
 <br/>
+
+[![](https://visitcount.itsvg.in/api?id=SmitAkbari26&icon=1&color=3)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on [Event Management System](https://github.com/SmitAkbari26/Fiesta)
 
@@ -18,8 +14,6 @@
 - 💬 Ask me about **React, PHP and CSS**
 
 - 📫 How to reach me **akbarismit26@gmail.com**
-
-<br/>
 
 ---
 
