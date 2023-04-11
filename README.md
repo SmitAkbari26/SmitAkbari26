@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Smit%20Github&fontAlign=75&fontAlignY=40&color=gradient" height="200" width="100%"/>
 <h1 align="center">Hi 👋, I'm Smit Akbari</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
