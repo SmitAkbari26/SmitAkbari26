@@ -30,6 +30,4 @@
 
 ---
 
-### Profile Visit Count   
-![Visitor Badge](https://visitcount.itsvg.in/api?id=SmitAkbari26&icon=1&color=3)
 </div>      
