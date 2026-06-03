@@ -60,21 +60,18 @@
     </td>
   </tr>
 </table>
-
----
-
+<!--
 <div align="center">
   <h2>Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=SmitAkbari26&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4" />
 </div>
-
----
-
 <div align="center">
 <h2 align="center">Stats</h2> <br>
 <!--<a href="https://github.com/SmitAkbari26"><img src="https://github-readme-stats.vercel.app/api?username=SmitAkbari26&theme=react&hide_border=true&include_all_commits=false&count_private=false" /></a>-->
+<!--
 <a href="https://github.com/SmitAkbari26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SmitAkbari26&theme=react&hide_border=true" /></a>
 </div>
+-->
 
 <!--
 ---
